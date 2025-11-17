@@ -69,11 +69,16 @@ Fitur untuk mengubah detail kontak yang sudah ada. Data lama akan otomatis teris
 ---
 
 <div align="center">
-  <h3>🎥 Live Demo</h3>
+  <h3>🎥 Demo Aplikasi</h3>
   <video src="https://github.com/user-attachments/assets/3f2b84c4-971f-4150-a5de-0bfb169f4c7e" width="100%" controls autoplay muted>
     Browser kamu tidak mendukung tag video.
   </video>
-  <p><i>Tampilan interaktif FR Hub: Login, Tambah Kontak, dan Dashboard.</i></p>
+  <p align="center">
+    <i>
+      Tampilan interaktif FR Hub: Login, Tambah Kontak, dan Dashboard.<br>
+      <b>Fitur Unik:</b> Perhatikan <b>Banner Iklan</b> yang bisa ditutup (tombol X) dan <b>Logo FR Hub</b> di pojok kiri atas yang berfungsi sebagai tombol Logout rahasia.
+    </i>
+  </p>
 </div>
 
 ---
