@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       <div class="glass border border-blue-100 shadow-lg shadow-blue-200 rounded-2xl p-8 w-full max-w-md">
         <div class="text-center mb-4">
           <h1 class="text-2xl font-extrabold text-slate-800">FR Hub</h1>
-          <p class="text-sm text-slate-500">Selamat datang, Favian!</p>
+          <p class="text-sm text-slate-500">Silakan login untuk melanjutkan</p>
         </div>
 
         <?php if(!empty($err)): ?>
@@ -68,14 +68,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <input id="password" name="password" type="password" required
               class="w-full py-2.5 px-3 rounded-lg bg-[#f0f6ff] border border-blue-200 text-slate-800 placeholder-slate-400 focus:ring-2 focus:ring-blue-300 focus:border-blue-400 transition" 
               placeholder="Masukkan password">
-          </div>
-
-          <div class="flex items-center justify-between text-sm">
-            <label class="inline-flex items-center gap-2 text-slate-600">
-              <input type="checkbox" name="remember" class="h-4 w-4 text-blue-500 rounded border-slate-300 focus:ring-blue-300">
-              <span>Ingat saya</span>
-            </label>
-            <a href="#" class="text-blue-600 hover:underline">Lupa password?</a>
           </div>
 
           <div>
